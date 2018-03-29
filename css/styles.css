@@ -1,0 +1,25 @@
+.jumbotron{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyK8LEOCQF7FITLkBbPia84KaU4e_cAreB9asxA1_56smYYLs-");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+body{
+  background-color:white;
+}
+.aside{
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzh8QDCX1-Bp161WMTLQHGj5kkcLeScKj7QoM8Md8Sn0WssIA6");
+  background-repeat: no-repeat;
+  background-size: cover;
+  float: left;
+  height:500px;
+}
+.center{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY5Glh7w6SM2WXMjFfpo9CtMhuUDrq4FpVJ8bhi4NvSlhqoG24");
+  background-repeat: no-repeat;
+  background-size: cover;
+  float:right;
+}
+.btn{
+  text-align: center;
+}
